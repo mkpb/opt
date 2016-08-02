@@ -1,8 +1,8 @@
 require "mkpb/opt/version"
 require "getoptlong"
 
-module Mkpb
-  module Opt
+#module Mkpb
+#  module Opt
 
 	class GetoptLong
        		def to_h
@@ -31,5 +31,5 @@ module Mkpb
         	end
 	end
 
-  end
-end
+#  end
+#end
