@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Some additions to getopt class.}
   spec.description   = %q{Some additions to getopt class.}
-  spec.homepage      = "git@github.com:mkpb/opt.git"
+  spec.homepage      = "https://github.com/mkpb/opt"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
