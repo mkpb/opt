@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+opts = Opt.get(
+                ["--host", "-h", :mandatory],
+                ["--user", "-u", :optional]
+ )
 
 ## Development
 
