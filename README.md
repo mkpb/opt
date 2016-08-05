@@ -22,10 +22,12 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 opts = Opt.get(
                 ["--host", "-h", :mandatory],
                 ["--user", "-u", :optional]
  )
+```
 
 ## Development
 
